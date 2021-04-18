@@ -1,0 +1,92 @@
+{
+    "coders": [
+      {
+        "id": 1,
+        "first_name": "Aylmar",
+        "job": "Javascript",
+        "email": "asimpson0@vistaprint.com"
+      },
+      {
+        "id": 2,
+        "first_name": "Tallulah",
+        "job": "CSS",
+        "email": "tomullally1@go.com"
+      },
+      {
+        "id": 3,
+        "first_name": "Lon",
+        "job": "Python",
+        "email": "ldankov2@uol.com.br"
+      },
+      {
+        "id": 4,
+        "first_name": "Lynea",
+        "job": "CSS",
+        "email": "lpeakman3@nhs.uk"
+      },
+      {
+        "id": 5,
+        "first_name": "Germayne",
+        "job": "Javascript",
+        "email": "john@gmail.com"
+      },
+      {
+        "id": 6,
+        "first_name": "Parsifal",
+        "job": "Javascript",
+        "email": "pmarians5@pen.io"
+      },
+      {
+        "id": 7,
+        "first_name": "Nathalie",
+        "job": "Javascript",
+        "email": "nloveless6@gmail.com"
+      },
+      {
+        "id": 8,
+        "first_name": "Peri",
+        "job": "Python",
+        "email": "pofallone7@gmail.com"
+      },
+      {
+        "id": 9,
+        "first_name": "Drud",
+        "job": "Javascript",
+        "email": "dtamplin8@jugem.jp"
+      },
+      {
+        "id": 10,
+        "first_name": "Trudy",
+        "job": "Javascript",
+        "email": "tstobart9@gmail.com"
+      }
+    ],
+    "designers": [
+      {
+        "id": 1,
+        "first_name": "Addie",
+        "email": "aspondley0@go.com"
+      },
+      {
+        "id": 2,
+        "first_name": "Aurel",
+        "email": "aplatts1@rediff.com"
+      },
+      {
+        "id": 3,
+        "first_name": "Nehemiah",
+        "email": "ngallant2@creativecommons.org"
+      },
+      {
+        "id": 4,
+        "first_name": "Oren",
+        "email": "ohallagan3@godaddy.com"
+      },
+      {
+        "id": 5,
+        "first_name": "Giustina",
+        "email": "gmassei4@jiathis.com"
+      }
+    ]
+  }
+  
