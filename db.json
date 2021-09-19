@@ -375,5 +375,77 @@
       "phone": "123.876.5456 x140",
       "image": "https://i.pravatar.cc/300?img=12"
     }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "marka": "Hyundai",
+      "model": "Santafe",
+      "new": true,
+      "engine": "2000cc",
+      "fuel": "Fuel",
+      "transmission": "automatic",
+      "price": "20000"
+    },
+    {
+      "id": 1,
+      "marka": "Hyundai",
+      "model": "Santafe",
+      "new": true,
+      "engine": "2000cc",
+      "fuel": "Fuel",
+      "transmission": "automatic",
+      "price": "20000"
+    },
+    {
+      "id": 1,
+      "marka": "Hyundai",
+      "model": "Santafe",
+      "new": true,
+      "engine": "2000cc",
+      "fuel": "Fuel",
+      "transmission": "automatic",
+      "price": "20000"
+    },
+    {
+      "id": 1,
+      "marka": "Hyundai",
+      "model": "Santafe",
+      "new": true,
+      "engine": "2000cc",
+      "fuel": "Fuel",
+      "transmission": "automatic",
+      "price": "20000"
+    },
+    {
+      "id": 1,
+      "marka": "Hyundai",
+      "model": "Santafe",
+      "new": true,
+      "engine": "2000cc",
+      "fuel": "Fuel",
+      "transmission": "automatic",
+      "price": "20000"
+    },
+    {
+      "id": 1,
+      "marka": "Hyundai",
+      "model": "Santafe",
+      "new": true,
+      "engine": "2000cc",
+      "fuel": "Fuel",
+      "transmission": "automatic",
+      "price": "20000"
+    },
+    {
+      "id": 1,
+      "marka": "Hyundai",
+      "model": "Santafe",
+      "new": true,
+      "engine": "2000cc",
+      "fuel": "Fuel",
+      "transmission": "automatic",
+      "price": "20000"
+    }
   ]
 }
