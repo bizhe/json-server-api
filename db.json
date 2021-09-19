@@ -385,67 +385,117 @@
       "engine": "2000cc",
       "fuel": "Fuel",
       "transmission": "automatic",
+      "img_src": "images/1.jpg",
+      "img_alternative_src": "images/1.jpg",
       "price": "20000"
     },
     {
-      "id": 1,
+      "id": 2,
+      "marka": "KIA",
+      "model": "Sportage",
+      "new": false,
+      "engine": "2400cc",
+      "fuel": "Fuel",
+      "transmission": "automatic",
+      "img_src": "images/2.jpg",
+      "img_alternative_src": "assets/images/2.jpg",
+      "price": "33000"
+    },
+    {
+      "id": 3,
+      "marka": "BMW",
+      "model": "525",
+      "new": false,
+      "engine": "2500cc",
+      "fuel": "Fuel",
+      "transmission": "automatic",
+      "img_src": "images/3.jpg",
+      "img_alternative_src": "assets/images/3.jpg",
+      "price": "22500"
+    },
+    {
+      "id": 4,
+      "marka": "Tesla",
+      "model": "Modal S",
+      "new": true,
+      "engine": "2000cc",
+      "fuel": "Electric",
+      "transmission": "automatic",
+      "img_src": "images/4.jpg",
+      "img_alternative_src": "assets/images/4.jpg",
+      "price": "120000"
+    },
+    {
+      "id": 5,
+      "marka": "Hyundai",
+      "model": "Santafe",
+      "new": false,
+      "engine": "2000cc",
+      "fuel": "Fuel",
+      "transmission": "automatic",
+      "img_src": "images/5.jpg",
+      "img_alternative_src": "assets/images/5.jpg",
+      "price": "20000"
+    },
+    {
+      "id": 6,
       "marka": "Hyundai",
       "model": "Santafe",
       "new": true,
       "engine": "2000cc",
       "fuel": "Fuel",
       "transmission": "automatic",
+      "img_src": "images/6.jpg",
+      "img_alternative_src": "assets/images/6.jpg",
       "price": "20000"
     },
     {
-      "id": 1,
+      "id": 7,
+      "marka": "Chevrolet",
+      "model": "Cruze",
+      "new": false,
+      "engine": "1400cc",
+      "fuel": "Fuel",
+      "transmission": "mechanic",
+      "img_src": "images/7.jpg",
+      "img_alternative_src": "assets/images/7.jpg",
+      "price": "16000"
+    },
+    {
+      "id": 8,
       "marka": "Hyundai",
       "model": "Santafe",
+      "new": false,
+      "engine": "2000cc",
+      "fuel": "Fuel",
+      "transmission": "automatic",
+      "img_src": "images/8.jpg",
+      "img_alternative_src": "assets/images/8.jpg",
+      "price": "20000"
+    },
+    {
+      "id": 9,
+      "marka": "Mitsubishi",
+      "model": "Outlander",
+      "new": true,
+      "engine": "2400cc",
+      "fuel": "Fuel",
+      "transmission": "automatic",
+      "img_src": "images/9.jpg",
+      "img_alternative_src": "assets/images/9.jpg",
+      "price": "13800"
+    },
+    {
+      "id": 10,
+      "marka": "Mercedes",
+      "model": "E 200",
       "new": true,
       "engine": "2000cc",
       "fuel": "Fuel",
       "transmission": "automatic",
-      "price": "20000"
-    },
-    {
-      "id": 1,
-      "marka": "Hyundai",
-      "model": "Santafe",
-      "new": true,
-      "engine": "2000cc",
-      "fuel": "Fuel",
-      "transmission": "automatic",
-      "price": "20000"
-    },
-    {
-      "id": 1,
-      "marka": "Hyundai",
-      "model": "Santafe",
-      "new": true,
-      "engine": "2000cc",
-      "fuel": "Fuel",
-      "transmission": "automatic",
-      "price": "20000"
-    },
-    {
-      "id": 1,
-      "marka": "Hyundai",
-      "model": "Santafe",
-      "new": true,
-      "engine": "2000cc",
-      "fuel": "Fuel",
-      "transmission": "automatic",
-      "price": "20000"
-    },
-    {
-      "id": 1,
-      "marka": "Hyundai",
-      "model": "Santafe",
-      "new": true,
-      "engine": "2000cc",
-      "fuel": "Fuel",
-      "transmission": "automatic",
-      "price": "20000"
+      "img_src": "images/10.jpg",
+      "img_alternative_src": "assets/images/10.jpg",
+      "price": "10000"
     }
   ]
 }
